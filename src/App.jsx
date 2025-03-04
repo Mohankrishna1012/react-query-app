@@ -8,7 +8,7 @@ const App = () => {
   return (
     <QueryClientProvider client={queryClient}>
       <div>
-        <h1>React Query JSONPlaceholder App</h1>
+        <h1>React Query Application</h1>
         <PostForm />
         <PostList />
       </div>
